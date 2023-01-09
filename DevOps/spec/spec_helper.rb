@@ -6,7 +6,7 @@ require 'httparty/response/headers'
 @ambiente = @rspec_yml['ambiente']
 CONFIG = YAML.load_file("#{Dir.pwd}/support/data/#{@ambiente}.yaml")
 
-#referencia deonde esta o arquivo com o modulo gera_autorizacao
+#referencia deonde esta o arquivo com o modulo
 require_relative '../services/gera_autorizacao_services.rb'
 require_relative '../services/gera_token_services.rb'
 
