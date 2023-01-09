@@ -1,0 +1,16 @@
+url_padrao: 'https://openapi-int.hdi.com.br'
+
+#credenciais hml:
+clientId: 'api-ins-integration-internal-access'
+clientSecret: '4a159af14b6e793f3fdfd9947183167e62287d57285c42f6638381546a417f08'
+grantType: 'client_credentials'
+key: AIzaSyBbF971A0gHgODWBDpa0P1MwKq6AjGvtMM
+
+company_id: '01'
+aplication_id: '01'
+
+
+#corretor
+cpf_espaco_informatica: '68769613893'
+susep_espaco_informatica: '00000000000001'
+sucursal_espaco_informatica: '001'
